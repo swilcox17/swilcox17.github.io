@@ -2,34 +2,24 @@
 
 ---
 
-### Category Name 1 
+### Systems Design 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[System Proposal and Design ](https://github.com/swilcox17/Systems-Design)
+project used to show system design and the development cycle 
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Text Analyzer](https://github.com/swilcox17/CSC-2430-text-analysis-)
+c++ program that takes a section from the novel "A tale of two cities" 
+and prints out the conjunctions 
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+[ARTEMIS](https://github.com/swilcox17/ARTEMIS-)
+Senior design project teaming up with an engineering teamn to create
+an aquadrone to be controlled via mobile app in order to collect trash
+from waterways using a game ui
 ---
 
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
